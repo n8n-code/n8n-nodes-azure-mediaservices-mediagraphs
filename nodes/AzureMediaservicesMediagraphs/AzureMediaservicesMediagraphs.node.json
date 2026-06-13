@@ -1,0 +1,20 @@
+{
+  "node": "N8nDevAzureMediaservicesMediagraphs",
+  "nodeVersion": "1.0",
+  "codexVersion": "1.0",
+  "categories": [
+    "Development"
+  ],
+  "resources": {
+    "primaryDocumentation": [
+      {
+        "url": "https://github.com/n8n-code/n8n-nodes-azure-mediaservices-mediagraphs"
+      }
+    ],
+    "credentialDocumentation": [
+      {
+        "url": "https://github.com/n8n-code/n8n-nodes-azure-mediaservices-mediagraphs?tab=readme-ov-file#credentials"
+      }
+    ]
+  }
+}
